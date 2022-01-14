@@ -34,6 +34,37 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Shoujo☆Kageki 
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Summer Wars', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Kaguya-hime no Monogatari', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/imUJOrtNf8EWameChpaRLXSaX4w.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Yuru Yuri Nachuyachumi!', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wNETLi299nbNLlAEUozPGc8AeM5.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'BLACKFOX', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/8sy0d7k7zRXWlydi5TvvGpraNKe.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Gake no Ue no Ponyo', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/efZ10EscERir1yU60KsSjLNa6ZJ.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Giniro no Kami no Agito', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/dS1rOjnhgqTbEebLLAIQ7tG7hyB.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Hakubo', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/mAaKxURFBRkLVfpqKOFVND78F13.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wMuXTor7cw9XZQQeJLXSvOfCEkF.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Hibike! Euphonium Movie 2: Todoketai Melody', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/kH2nsjFGLKrBqjpv3VsnRJVFMH5.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Hibike! Euphonium Movie 3: Chikai no Finale', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/uRBxFxB0wlYfsaF6Pf8DeEEAq4V.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Howl no Ugoku Shiro', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vwBa7djy1oxfxUjc7YtVgGNsjrT.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Kimi no Koe wo Todoketai', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/6nKcYUEIFSbWRymT7BV1nD197Gx.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Kotonoha no Niwa', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/6ljxY3k2Or1iEpjwBlrAuaGUIlK.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Koukaku Kidoutai', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Liz to Aoi Tori', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/mG3CYBXgCPi0yYHSygKNtqGpEkd.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Mirai no Mirai', 'https://www.themoviedb.org/t/p/w533_and_h300_face/1TSGVVap3ONYMk0G1uLDwcVzv8d.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Neko no Ongaeshi', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/cuiJ6e6kSatyRlnCJrvJG2ElpSg.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Non Non Biyori Movie: Vacation', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/xv9mCcrT3GAvk4IhbdaXxv4ylqt.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9I86MnJ6POxgxC4YvEVrtXxMv1x.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Tenkuu no Shiro Laputa', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Violet Evergarden Movie', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/zBvR0lJyKH37FPQTj5mFfYr2X4s.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wIeNWRuBCdEBmWoDRcKputYV414.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Suzumiya Haruhi no Shoushitsu', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/AhHQFrbtA6AkWjefpIKMOd7Dzpe.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Fragtime', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/w8mUnylYIkKfwzCIeyxXSQt055N.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Kimi to, Nami ni Noretara', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vooRKLGVvFRFmx9swcMh26uYZSf.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Saenai Heroine no Sodatekata Fine', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/1DbWrFIn8BJpmNx2eSUomtLPhPH.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Sora no Aosa wo Shiru Hito yo', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/k1jWHgAICsNGM5roYcIwaDpryYS.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Given Movie', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/u1wHUA0R48FH4WV3sGqjwx3aNZm.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Tamako Love Story', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/6Nz34wS45PsHUpk1SPBjFGzbCBZ.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Ai no Utagoe wo Kikasete', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4nswAImPQjLbyCpXkwHjFlXxAeG.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Summer Ghost', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/kjCJ8L5JzpF5WqBdFSwHeuW37DH.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Kakushigoto Movie', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/evm4KLYl7c5wXsnbMPTkLnq7RtN.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Omoi, Omoware, Furi, Furare', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/DRn1kuSWB1fd3k3l1VufX2dFqV.jpg');
+
 
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);

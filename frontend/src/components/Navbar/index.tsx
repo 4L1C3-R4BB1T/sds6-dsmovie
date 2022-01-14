@@ -1,4 +1,6 @@
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
+import { ReactComponent as Logo } from 'assets/img/logo.svg';
+
 import { Link } from 'react-router-dom';
 import './styles.css';
 
@@ -8,7 +10,7 @@ function Navbar() {
             <nav className="container">
                 <div className="dsmovie-nav-content">
                     <Link to="/">
-                        <h1>DSMovie</h1>
+                        <Logo />
                     </Link>
                     <a href="https://github.com/4L1C3-R4BB1T" target="_blank" rel="noreferrer">
                         <div className="dsmovie-contact-container">
