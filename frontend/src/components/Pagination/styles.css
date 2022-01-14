@@ -1,5 +1,5 @@
 .dsmovie-pagination-container {
-    padding: 15px 0;
+    padding: 25px 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,8 @@
 
 .dsmovie-pagination-container p {
     margin: 0;
-    font-size: 12px;
+    font-size: 14px;
+    font-weight: bold;
     color: var(--color-primary);
 }
 

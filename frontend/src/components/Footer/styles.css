@@ -1,0 +1,9 @@
+footer {
+    flex-shrink: 0;
+    text-align: center;
+    background-color: var(--color-primary);
+}
+
+footer .container p {
+    color: #fff;
+}
